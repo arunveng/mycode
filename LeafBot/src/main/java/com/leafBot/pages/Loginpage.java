@@ -4,5 +4,5 @@ import com.leafBot.testng.api.base.ProjectSpecificMethods;
 
 public class Loginpage extends ProjectSpecificMethods 
 {
-
+	system.out.println("Loggind Successfully");
 }
